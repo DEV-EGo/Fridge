@@ -5,7 +5,7 @@ $(document).ready(function () {
 
     for (var i = 0; i < letters.length; i++) {
 
-        var letterBtn = $("<div>");
+        var letterBtn = $("<button>");
 
         letterBtn.addClass("letter-button letter letter-button-color");
 
