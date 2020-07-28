@@ -17,7 +17,7 @@ $(document).ready(function () {
     }
 
     $(".letter-button").on("click", function () {
-        var fridgemagnet = $("<div");
+        var fridgemagnet = $("<div>");
 
         fridgemagnet.addClass("letter fridge-color");
 
