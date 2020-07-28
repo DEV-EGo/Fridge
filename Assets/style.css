@@ -17,7 +17,8 @@ body{
 }
 
 .fridge-color{
-    color: orange;
+    color: #0008ff;
+    text-align: center;
 }
 
 #display{
