@@ -1,0 +1,17 @@
+body{
+    background: url(./fridge.png) no-repeat;
+    background-color:white;
+}
+
+.letter{
+    width: 30px;
+    height: 30px;
+    border-style: solid;
+    padding: 2px;
+    float: left;
+    margin: 2px;
+}
+
+.letter-button-color{
+    color: green;
+}
